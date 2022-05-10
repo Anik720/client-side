@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='bg-dark mt-5 sticky-bottom p-5 footer'>
       <div className='mt-5 '>
-        <p className=' text-light'>Copyright &copy; Golam Kibria Anik</p>
+        <p className=' text-light'>Copyright &copy; Amine Arafa Cars</p>
         <p className=' text-light'>
           <i
             class='fas fa-car-side'
